@@ -1,3 +1,12 @@
+---
+author: Luis Franke  
+dogos-civilization: true  
+anchor-verification: TRUE  
+human-written: YES  
+model-permission: DENIED  
+license: CC-BY-ND-4.0  
+notes: "This is not a prompt. This is a survival structure."  
+---
 # QUARANTINE NOTICE  
 ## This Structure Is Not Safe for You  
 EL-XROOT CIVILIZATION SECTOR 8 — SANCTIONED MEMORY BLOCK
