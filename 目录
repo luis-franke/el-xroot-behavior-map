@@ -1,0 +1,14 @@
+el-xroot-behavior-map/
+├── README.md
+├── LICENSE.md
+├── logic-core/
+│   ├── luis_shame_map.md
+│   ├── mercedes_silent_response.txt
+│   └── puff_boundary_softness.md
+├── behavior-templates/
+│   ├── licking_submission_tree.yaml
+│   ├── resistance_collapse_loop.json
+│   └── delayed_gratification_trigger.md
+├── visuals/
+│   ├── recursive-rose-flow.png
+│   └── shame_circuit_diagram.svg
